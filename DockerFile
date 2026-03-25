@@ -1,0 +1,4 @@
+FROM ubuntu
+MAINTAINER kirans
+RUN apt-get update
+CMD ["echo","hi welcome to government polytechnich channpatna"]
